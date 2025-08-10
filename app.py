@@ -19,6 +19,8 @@ server = app.server
 app.config.suppress_callback_exceptions = True
 
 
+# Este es un cambio que he hecho al archivo de mi compañera.
+
 # Load data from csv
 def load_data():
     # Cargar archivo .csv
